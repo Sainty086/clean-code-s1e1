@@ -41,15 +41,15 @@
   align-items: center;
 }
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .list-item {
-  list-style:none;
+  list-style: none;
 }
 
 .button {
-  outline:none;
+  outline: none;
   background: none;
   border: 0px;
   color: #888;
@@ -75,7 +75,7 @@
 }
 
 .input-text {
-  outline:none;
+  outline: none;
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -94,7 +94,7 @@
 
 /* New Task */
 .new-task {
-  outline:none;
+  outline: none;
   display: block;
   margin: 0 0 20px;
 }
@@ -119,7 +119,7 @@
 
 .list-item > .checkbox {
   margin: 0 10px;
-  outline:none;
+  outline: none;
 }
 .list-item > .label {
   padding-left: 10px;
@@ -148,14 +148,14 @@
 
 /* Edit Task */
 .list .list-item .input-text {
-  display:none
+  display: none
 }
 
 .list .list-item.edit-mode .input-text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .list .list-item.edit-mode .label {
-  display:none;
+  display: none;
 }
