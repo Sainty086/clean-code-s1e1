@@ -43,6 +43,7 @@
 
 .row-wrapper {
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -105,7 +106,7 @@
 .new-task {
   outline: none;
   display: block;
-  margin: 0 0 20px;
+  margin: 20px 0;
 }
 
 #new-task {
